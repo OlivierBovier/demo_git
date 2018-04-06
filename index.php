@@ -23,7 +23,7 @@
 </head>
 
 <body>
-	<h1>Bonjour !!!</h1>
+	<h1>Welcome aboard my friends ....</h1>
 	<h2>Quelques modifications</h2>
 
 	^<p>Modifications Olivier de 14 h 14</p>
