@@ -17,6 +17,7 @@
 			color: blue;
 		}
 		#jean{color : pink}
+		#jean2{color : lightblue}
 
 	</style>
 </head>
@@ -29,6 +30,7 @@
 
 	<p>Nouveau paragraphe</p>
 	<p id="jean" >Je rajoute un paragraphe rose</p> 
+	<p id="jean2" >Je rajoute un paragraphe bleu clair</p> 
 
 
 </body>
