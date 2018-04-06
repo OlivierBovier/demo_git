@@ -11,12 +11,17 @@
 			font-size: 50px;
 			color: purple;
 		}
+		p {
+			font-size: 20px;
+			color: blue;
+		}
 	</style>
 </head>
 
 <body>
 	<h1>Bonjour !!!</h1>
 	<h2>Quelques modifications</h2>
+	<p>Nouveau paragraphe</p>
 
 </body>
 
