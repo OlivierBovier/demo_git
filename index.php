@@ -11,12 +11,18 @@
 			font-size: 50px;
 			color: purple;
 		}
+
+		p {
+			font-size: 20px;
+			color: yellow;
+		}
 	</style>
 </head>
 
 <body>
 	<h1>Bonjour !!!</h1>
 	<h2>Quelques modifications</h2>
+	^<p>Modifications Olivier de 12 h 27</p>
 
 </body>
 
