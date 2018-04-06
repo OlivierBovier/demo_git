@@ -15,6 +15,7 @@
 			font-size: 20px;
 			color: blue;
 		}
+		#jean{color : pink}
 	</style>
 </head>
 
@@ -22,6 +23,7 @@
 	<h1>Bonjour !!!</h1>
 	<h2>Quelques modifications</h2>
 	<p>Nouveau paragraphe</p>
+	<p id="jean" >Je rajoute un paragraphe rose</p> 
 
 </body>
 
