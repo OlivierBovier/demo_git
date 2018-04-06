@@ -23,10 +23,12 @@
 </head>
 
 <body>
+
 	<h1>salut tout le monde</h1>
+  
 	<h2>Quelques modifications</h2>
 
-	^<p>Modifications Olivier de 14 h 14</p>
+	<p>Modifications Olivier de 14 h 14</p>
 
 	<p>Nouveau paragraphe</p>
 	<p id="jean" >Je rajoute un paragraphe rose</p> 
