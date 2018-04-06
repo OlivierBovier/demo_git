@@ -9,7 +9,7 @@
 			top: 40%;
 			left: 40%;
 			font-size: 50px;
-			color: purple;
+			color: yellow;
 		}
 
 		p {
@@ -23,7 +23,7 @@
 </head>
 
 <body>
-	<h1>Bonjour !!!</h1>
+	<h1>salut tout le monde</h1>
 	<h2>Quelques modifications</h2>
 
 	^<p>Modifications Olivier de 14 h 14</p>
