@@ -24,7 +24,7 @@
 
 <body>
 
-	<h1>salut tout le monde</h1>
+	<h1>Hello tout le monde</h1>
   
 	<h2>Quelques modifications</h2>
 
@@ -32,7 +32,9 @@
 
 	<p>Nouveau paragraphe</p>
 	<p id="jean" >Je rajoute un paragraphe rose</p> 
-	<p id="jean2" >Je rajoute un paragraphe bleu clair</p> 
+	<p id="jean2" >Je rajoute un paragraphe bleu clair</p>
+
+	
 
 
 </body>
