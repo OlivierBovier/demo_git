@@ -7,6 +7,7 @@
 
 <body>
 	<h1>Bonjour !!!</h1>
+	<h2>Quelques modifications</h2>
 
 </body>
 
